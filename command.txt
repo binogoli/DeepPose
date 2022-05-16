@@ -1,0 +1,1 @@
+python main.py -DataConfig ./conf/datasets/coco.defconf -ModelConfig ./conf/models/DeepPose.defconf
